@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #CCCCCC;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+#songs-name{
+    border: 1px solid black;
+    background-color: white;
+    margin: 10px;
+}
+audio,video{
+    width: 95%;
+    margin: 10px;
+}
+#video-audio{
+    background-color: white;
+    border: 1px solid black;
+    margin: 12px;
+}
+p{
+    text-align: left;
+    margin: 5px;
+}
